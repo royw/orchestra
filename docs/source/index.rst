@@ -12,6 +12,7 @@ Orchestra is an open source system to orchestrate teams of experts as they compl
    contributing
    motivation
    api
+   core
 
 Indices and tables
 ------------------
