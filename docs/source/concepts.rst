@@ -2,6 +2,7 @@ Key Concepts
 ============
 
 Let's first recap our example reporting workflow:
+
 - An editor finds a good story and sends a reporter off to investigate.
 - The reporter writes up a draft article.
 - A more experienced reporter then reviews the article and suggests improvements.
@@ -25,10 +26,14 @@ Workflows
 Project Distribution
 --------------------
 - Projects are a series of interconnected tasks. A project is an instance of a workflow; a task is an instance of a step.
+
   - An editor with a story about local elections would create an elections project, with tasks for a reporter/photographer/copy editor
+
 - Tasks are carried out by an expert or by a machine.
+
   - Photographers capture the story
   - Machines resize and recolor the photos
+
 - Experts can come from anywhere, from a company's employees to freelancers off of platforms like Upwork.
 
 
@@ -45,8 +50,11 @@ Worker Certification
 --------------------
 - Certifications allow experts to work on tasks they're great at.
 - Experts can work toward all sorts of certifications, picking up practice tasks to build experience.
+
   - Joseph is a solid reporter but needs a little more practice as a photographer—let's give him some simple tasks so he can improve!
+
 - Experts need additional certification to work in a reviewer role.
+
   - Amy has been reporting for quite some time and would be great at mentoring new reporters.
 
 
