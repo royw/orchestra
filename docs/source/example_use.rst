@@ -1,5 +1,5 @@
 ###############################
-Example Use Case: The News Room
+Example Use Case: The Newsroom
 ###############################
 
 Below we'll walk you through an example of how Orchestra could be used in a
@@ -10,7 +10,7 @@ for this example can be found `in our github repo
 ************
 The workflow
 ************
-.. image:: ../static/img/journalism_workflow/workflow.jpg
+.. image:: ../static/img/journalism_workflow/workflow.png
    :height: 300px
 
 The image above depicts our example workflow, which is composed of the
@@ -312,7 +312,7 @@ but here are a couple of things to keep in mind:
   task data like ``orchestraService.taskUtils.findPrerequisite($scope.taskAssignment, step_slug)``,
   which will get the taskAssignment for the previous step called ``step_slug``.
 
-And of course, please refer to `the news room workflow step interfaces <https://github.com/unlimitedlabs/orchestra/tree/stable/journalism_workflow/static/journalism_workflow>`_
+And of course, please refer to `the newsroom workflow step interfaces <https://github.com/unlimitedlabs/orchestra/tree/stable/journalism_workflow/static/journalism_workflow>`_
 as examples.
 
 The machine steps
