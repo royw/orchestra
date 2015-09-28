@@ -7,7 +7,8 @@ from orchestra.core.errors import SlugUniquenessError
 
 
 class Workflow():
-    """Workflows represent execution graphs of human and machine steps.
+    """
+    Workflows represent execution graphs of human and machine steps.
 
     Attributes:
         slug (str):
