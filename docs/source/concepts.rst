@@ -67,10 +67,10 @@ Core Expert
 ~~~~~~~~~~~
 A core expert performs initial task work which will later be reviewed. The below diagram shows a task's movement through the core worker's dashboard.
 
-.. image::img/core_lifecycle.png
+.. image:: img/core_lifecycle.png
 
 Reviewer
 ~~~~~~~~
 A reviewer evaluates the core expert's work and provides feedback. The below diagram shows a task's movement through a reviewer's dashboard.
 
-.. image::img/reviewer_lifecycle.png
+.. image:: img/reviewer_lifecycle.png
